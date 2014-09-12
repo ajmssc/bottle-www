@@ -1,8 +1,7 @@
-bottle-www
+Simple API with Bottle
 ==========
 
-# Bottle simple project
-This repository provides a simple example of how to use the Bottle python package.
+This repository was created for Insight Data Engineering fellows and provides a simple example of how to use the Bottle python package.
 
 ## Install the Bottle Framework
 ```
@@ -18,7 +17,7 @@ python project.py
 Browse to http://yourserver:8080/hello/test
 
 ## TODO:
-Edit the code and add templates to do your API
+Edit the code and add your templates to do your API
 
 
 
