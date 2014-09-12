@@ -2,7 +2,7 @@ from bottle import route, run, template
 import happybase
 
 hbase = happybase.Connection('localhost')
-my_table = hbase.table('settings')
+my_table = hbase.table('hbase_table')
 
 
 

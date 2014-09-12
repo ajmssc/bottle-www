@@ -14,7 +14,7 @@ pip install bottle
 python project.py
 ```
 
-Browse to http://yourserver:8080/hello/test
+Browse to http://yourserver:8080/api/yourkey
 
 ## TODO:
 Edit the code and add your templates to do your API
