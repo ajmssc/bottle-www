@@ -5,6 +5,7 @@ This repository was created for Insight Data Engineering fellows and provides a 
 
 ## Install the Bottle Framework
 ```
+pip install happybase
 pip install bottle
 ```
 
